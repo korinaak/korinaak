@@ -24,7 +24,6 @@ interests:
   - Neural Networks & Deep Learning
   - Database Systems
   - Human-Computer Interaction
-currently_learning: Microservices Architecture, Docker, OR Tools
 ```
 
 ---
