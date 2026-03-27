@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100=c0caf5&height=180&section=header&text=Korina%20Karatzouni&fontSize=40&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20%40%20NTUA&descAlignY=58&descColor=7aa2f7" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100=c0caf5&height=180&section=header&text=Korina%20Karatzouni&fontSize=40&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=ECE%20Graduate%20%40%20NTUA&descAlignY=58&descColor=7aa2f7" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Deep+Learning+Enthusiast;SaaS+%26+Microservices+Builder;Always+learning+new+things...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Deep+Learning+Enthusiast;SaaS+%26+Microservices+Builder)](https://git.io/typing-svg)
 
 </div>
 
