@@ -38,23 +38,6 @@ interests:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=korinaak&theme=tokyonight&hide_border=true" alt="streak stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=korinaak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korinaak&layout=donut&theme=tokyonight&hide_border=true" height="160" alt="languages" />
-
-</div>
-
----
-
 ### 🚀 NTUA Projects
 
 | Project | Description | Tech |
